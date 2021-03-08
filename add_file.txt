@@ -1,2 +1,3 @@
+from server
 test2
 remote
