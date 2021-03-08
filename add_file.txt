@@ -2,3 +2,4 @@ from server
 test2
 remote
 local changes
+Add on server and have rebase work on local
